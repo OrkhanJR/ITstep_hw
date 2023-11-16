@@ -1,0 +1,12 @@
+table {
+  border: 1px solid black;
+}
+
+td,
+tr,
+th {
+  width: 10px;
+  height: 5px;
+  padding: 10px;
+  background-color: red;
+}
